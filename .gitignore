@@ -1,0 +1,3 @@
+user/.env
+user/node_modules
+user/.gitignore
